@@ -35,7 +35,7 @@ export default ({relatedArticles, popularArticles}) => {
       </div>
       <h3 className="text-xl md:text-3xl font-bold mb-3 md:mb-6">Top Reads</h3>
       <div className="grid grid-cols-1 md:grid-cols-4 gap-3 pb-10">
-        {popularArticles.map((article, index) => {
+        {popularArticles.find((article, index) => {
             return <Card
             shadow="none"
             radius="none"
