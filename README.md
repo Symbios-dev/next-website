@@ -1,3 +1,3 @@
 ### Pullflow Demo
 
-News website based on NextJS
+Pullflow demo with NextJS
