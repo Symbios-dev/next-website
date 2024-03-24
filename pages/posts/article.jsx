@@ -100,7 +100,7 @@ export default () => {
   return (
     <Layout>
       <Head>
-        <title>{title}</title>
+        <title>{the title}</title>
       </Head>
 
       <Article {...articleData} />
