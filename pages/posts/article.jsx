@@ -2,6 +2,10 @@ import Layout from "../../components/layout";
 import Article from "../../components/article/article";
 import Head from "next/head";
 
+const sum = (a, b) => a + b
+
+const prod = (a, b) => a * b
+
 const articleData = {
   id: "12123453",
   title: "Biden Jabs at China ‘Debt-Trap Diplomacy’ at Americas Summit",
