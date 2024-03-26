@@ -101,7 +101,7 @@ export default () => {
     <Layout>
       <Head>
         <title>{title}</title>
-        <subtitle><subtitle>
+        <subtitle></sub>
       </Head>
 
       <Article {...articleData} />
