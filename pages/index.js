@@ -5,6 +5,7 @@ export default function Index() {
   return (
     <>
       <Article />
+      <Body />
       <Footer />
     </>
   );
