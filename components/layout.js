@@ -12,7 +12,7 @@ export default ({ children, home }) => {
   if (home) {
     showHeader = true;
   } else {
-    showHeader = false;
+    showHeader = true;
   }
 
   return (
