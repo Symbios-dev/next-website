@@ -62,7 +62,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter)
+Your Name - [@eric-arkansas](https://twitter.com/eric-arkansas)
 
 Project Link: [https://github.com/your-username/next-gamermatch](https://github.com/your-username/next-gamermatch)
 
