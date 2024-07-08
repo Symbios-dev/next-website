@@ -97,13 +97,13 @@ const articleData = {
 };
 
 export default () => {
-  return (
     <Layout>
       <Head>
         <title>Foo bar</title>
       </Head>
 
+      <console>Hello</console>
+
       <Article {...articleData} />
     </Layout>
-  );
 };
