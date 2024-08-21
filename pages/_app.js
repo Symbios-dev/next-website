@@ -4,6 +4,7 @@ import '../styles/globals.css';
 
 const Application = ({ Component, pageProps }) => {
   return (
+    <Header />
     <NextUIProvider>
       <Component {...pageProps} />
     </NextUIProvider>
