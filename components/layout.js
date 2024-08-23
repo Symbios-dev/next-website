@@ -21,6 +21,7 @@ export default ({ children, home }) => {
         <link rel="icon" href={faviconPath} />
         <meta name="og:title" content={siteTitle} />
         <meta name="og:description" content={siteDescription} />
+        <meta name="og:description" content="Description" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={siteTitle} />
         <meta name="twitter:description" content={siteDescription} />
