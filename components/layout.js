@@ -30,9 +30,7 @@ export default ({ children, home }) => {
 
       <main style={{maxWidth: 'screen-lg', margin: 'auto'}}>{children}</main>
 
-      <Footer />
-
-      <Footer />
+      <Tail />
     </>
   );
 }
